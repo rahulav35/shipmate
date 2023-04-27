@@ -4,7 +4,9 @@ import Services from '@/components/Services'
 import React from 'react'
 
 
+
 function Home() {
+  
   return (
     <div  className='h-screen w-screen flex flex-col items-center justify-start bg-[#F8F9FD] bg-bgwave bg-bottom absolute'>
       <NavBar />

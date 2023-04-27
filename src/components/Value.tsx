@@ -5,7 +5,7 @@ type props ={
 
 function Value({value}:props) {
   return (
-    <div className='h-[35px] w-[300px] flex justify-center items-center '>
+    <div className='h-[44px] w-[200px] flex justify-center items-center bg-white z-[100] rounded-xl '>
         <span className="text-xs text-[#9747FF] font-medium flex">{value}
         <span className='text-xs font-normal'>5-5 days. $3,121</span>
 
